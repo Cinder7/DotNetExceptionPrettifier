@@ -1,0 +1,15 @@
+c:\Users\Knowe\Documents\dotnet\DotNetExceptionPrettifier\DotNetExceptionPrettifier\bin\release\net6.0\DotNetExceptionPrettifier.exe
+c:\Users\Knowe\Documents\dotnet\DotNetExceptionPrettifier\DotNetExceptionPrettifier\bin\release\net6.0\DotNetExceptionPrettifier.deps.json
+c:\Users\Knowe\Documents\dotnet\DotNetExceptionPrettifier\DotNetExceptionPrettifier\bin\release\net6.0\DotNetExceptionPrettifier.runtimeconfig.json
+c:\Users\Knowe\Documents\dotnet\DotNetExceptionPrettifier\DotNetExceptionPrettifier\bin\release\net6.0\DotNetExceptionPrettifier.dll
+c:\Users\Knowe\Documents\dotnet\DotNetExceptionPrettifier\DotNetExceptionPrettifier\bin\release\net6.0\ref\DotNetExceptionPrettifier.dll
+c:\Users\Knowe\Documents\dotnet\DotNetExceptionPrettifier\DotNetExceptionPrettifier\bin\release\net6.0\DotNetExceptionPrettifier.pdb
+c:\Users\Knowe\Documents\dotnet\DotNetExceptionPrettifier\DotNetExceptionPrettifier\obj\release\net6.0\DotNetExceptionPrettifier.csproj.AssemblyReference.cache
+c:\Users\Knowe\Documents\dotnet\DotNetExceptionPrettifier\DotNetExceptionPrettifier\obj\release\net6.0\DotNetExceptionPrettifier.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\Knowe\Documents\dotnet\DotNetExceptionPrettifier\DotNetExceptionPrettifier\obj\release\net6.0\DotNetExceptionPrettifier.AssemblyInfoInputs.cache
+c:\Users\Knowe\Documents\dotnet\DotNetExceptionPrettifier\DotNetExceptionPrettifier\obj\release\net6.0\DotNetExceptionPrettifier.AssemblyInfo.cs
+c:\Users\Knowe\Documents\dotnet\DotNetExceptionPrettifier\DotNetExceptionPrettifier\obj\release\net6.0\DotNetExceptionPrettifier.csproj.CoreCompileInputs.cache
+c:\Users\Knowe\Documents\dotnet\DotNetExceptionPrettifier\DotNetExceptionPrettifier\obj\release\net6.0\DotNetExceptionPrettifier.dll
+c:\Users\Knowe\Documents\dotnet\DotNetExceptionPrettifier\DotNetExceptionPrettifier\obj\release\net6.0\ref\DotNetExceptionPrettifier.dll
+c:\Users\Knowe\Documents\dotnet\DotNetExceptionPrettifier\DotNetExceptionPrettifier\obj\release\net6.0\DotNetExceptionPrettifier.pdb
+c:\Users\Knowe\Documents\dotnet\DotNetExceptionPrettifier\DotNetExceptionPrettifier\obj\release\net6.0\DotNetExceptionPrettifier.genruntimeconfig.cache
