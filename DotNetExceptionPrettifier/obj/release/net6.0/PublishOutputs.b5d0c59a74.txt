@@ -1,0 +1,5 @@
+c:\Users\Knowe\Documents\dotnet\DotNetExceptionPrettifier\DotNetExceptionPrettifier\bin\release\net6.0\publish\DotNetExceptionPrettifier.exe
+c:\Users\Knowe\Documents\dotnet\DotNetExceptionPrettifier\DotNetExceptionPrettifier\bin\release\net6.0\publish\DotNetExceptionPrettifier.dll
+c:\Users\Knowe\Documents\dotnet\DotNetExceptionPrettifier\DotNetExceptionPrettifier\bin\release\net6.0\publish\DotNetExceptionPrettifier.deps.json
+c:\Users\Knowe\Documents\dotnet\DotNetExceptionPrettifier\DotNetExceptionPrettifier\bin\release\net6.0\publish\DotNetExceptionPrettifier.runtimeconfig.json
+c:\Users\Knowe\Documents\dotnet\DotNetExceptionPrettifier\DotNetExceptionPrettifier\bin\release\net6.0\publish\DotNetExceptionPrettifier.pdb
