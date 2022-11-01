@@ -1,10 +1,9 @@
 using System.Text.RegularExpressions;
 
-namespace DotNetExceptionPrettifier;
+namespace ExceptionPrettifier;
 
 public static class ExceptionPrettifier
 {
-
 	public static async Task<string> Prettify(string filePath)
 	{
 
@@ -19,6 +18,14 @@ public static class ExceptionPrettifier
 		await File.WriteAllTextAsync(newFilepath, result);
 
 		return result;
+	}
+
+	public static void PrintPrettifiedException(Exception ex)
+	{
+		var message = ex.Message;
+		var stacktrace = SimplifyStacktrace(ex.StackTrace);
+		var result = $"\n{message}\n\n{stacktrace}";
+		Console.WriteLine(result);
 	}
 
 	private static string SimplifyStacktrace(string text)
